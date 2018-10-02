@@ -1,0 +1,14 @@
+{
+  "LYREBIRD_APP_CLIENT_ID": "TO_FILL",
+  "LYREBIRD_APP_CLIENT_SECRET": "TO_FILL",
+  "LYREBIRD_APP_REDIRECT_URI": "https://us-central1-TO_FILL.cloudfunctions.net/authorizeLyrebirdUser",
+  "VOICIFY_HANDLE": "https://us-central1-TO_FILL.cloudfunctions.net/voicifyHandle",
+  "MYVOICE_URL": "https://myvoice.lyrebird.ai",
+  "LYREBIRD_AVATAR_URL": "https://avatar.lyrebird.ai",
+  "FIREBASE_DATABASE_URL": "https://TO_FILL.firebaseio.com",
+  "SLACK_TOKEN_URL": "https://slack.com/api/oauth.access",
+  "SLACK_APP_CLIENT_ID": "TO_FILL",
+  "SLACK_APP_CLIENT_SECRET": "TO_FILL",
+  "SLACK_APP_REDIRECT_URI":"https://us-central1-TO_FILL.cloudfunctions.net/getSlackToken",
+  "SLACK_OAUTH_LINK": "https://slack.com/oauth/authorize?client_id=TO_FILL&scope=commands,incoming-webhook,files:write:user,chat:write:bot"
+}
